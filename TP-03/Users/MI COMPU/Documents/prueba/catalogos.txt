@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item>
+    <Id>1</Id>
+    <Nombre>primero</Nombre>
+    <Cantidad>78</Cantidad>
+    <Precio>3</Precio>
+  </Item>
+  <Item>
+    <Id>2</Id>
+    <Nombre>segundo</Nombre>
+    <Cantidad>3</Cantidad>
+    <Precio>4</Precio>
+  </Item>
+  <Item>
+    <Id>4</Id>
+    <Nombre>tercero</Nombre>
+    <Cantidad>5</Cantidad>
+    <Precio>9</Precio>
+  </Item>
+  <Item>
+    <Id>5</Id>
+    <Nombre>algo</Nombre>
+    <Cantidad>5</Cantidad>
+    <Precio>6</Precio>
+  </Item>
+</ArrayOfItem>

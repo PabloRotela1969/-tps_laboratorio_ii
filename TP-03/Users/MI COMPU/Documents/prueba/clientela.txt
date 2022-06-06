@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cliente>
+    <Bandeja />
+    <Dni>1</Dni>
+    <Nombre>primer</Nombre>
+    <Apellido>a</Apellido>
+  </Cliente>
+  <Cliente>
+    <Bandeja />
+    <Dni>3</Dni>
+    <Nombre>sgundo</Nombre>
+    <Apellido>b</Apellido>
+  </Cliente>
+  <Cliente>
+    <Bandeja />
+    <Dni>6</Dni>
+    <Nombre>tercero</Nombre>
+    <Apellido>como</Apellido>
+  </Cliente>
+  <Cliente>
+    <Bandeja />
+    <Dni>7</Dni>
+    <Nombre>cuarto</Nombre>
+    <Apellido>siete</Apellido>
+  </Cliente>
+</ArrayOfCliente>
