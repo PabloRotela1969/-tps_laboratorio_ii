@@ -1,0 +1,55 @@
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.exe
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.deps.json
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.runtimeconfig.json
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.runtimeconfig.dev.json
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.dll
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.pdb
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.csproj.AssemblyReference.cache
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.frmClientes.resources
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.csproj.GenerateResource.cache
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.AssemblyInfoInputs.cache
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.AssemblyInfo.cs
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.csproj.CoreCompileInputs.cache
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.dll
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\refint\CarritoCompras.dll
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.pdb
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.genruntimeconfig.cache
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\ref\CarritoCompras.dll
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\bin\Debug\net5.0-windows\Biblioteca.dll
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\bin\Debug\net5.0-windows\Biblioteca.pdb
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.csproj.CopyComplete
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.frmABMitems.resources
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.frmPrincipal.resources
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.frmAsignar.resources
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.exe
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.deps.json
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.runtimeconfig.json
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.runtimeconfig.dev.json
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\CarritoCompras.pdb
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\Biblioteca.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\Biblioteca.pdb
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.frmClientes.resources
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.frmABMitems.resources
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.frmAsignar.resources
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.frmPrincipal.resources
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.csproj.GenerateResource.cache
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.AssemblyInfo.cs
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.csproj.CopyComplete
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\refint\CarritoCompras.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.pdb
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.genruntimeconfig.cache
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\ref\CarritoCompras.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MI COMPU\Desktop\TP-03\CarritoCompras\obj\Debug\net5.0-windows\CarritoCompras.frmConfiguracion.resources

@@ -1,0 +1,1 @@
+Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=TP4;Data Source=PFR-DELL\SQLEXPRESS

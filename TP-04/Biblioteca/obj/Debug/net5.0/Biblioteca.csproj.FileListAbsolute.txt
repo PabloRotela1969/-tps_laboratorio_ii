@@ -1,0 +1,24 @@
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\REGX\UTNfra_TEC\T_P\LABO2\EJERCITACION\CarritoCompras\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\MI COMPU\Desktop\TP-03\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
